@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\pre-dexed\release\classes-c6e4c87338281480b1b8a580442ba89fd64847ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\pre-dexed\release\classes-6214285d19426e374ec875624521483105c399e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-064ac3a8e42a4bd4440fda7ac93ea91b3fdc8ec2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bisu123\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Bisu123\Pictures\HearMeOut\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-e54cc2afc471d06e04ed0d8586fc24d1b7f20f62.jar" />
+    </item>
+
+</items>
